@@ -6,7 +6,7 @@ Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
 
 -  **Lenguajes :** JavaScript, React, Redux, NodeJs, Express, PostgresSql,
 -  **Pasatiempos :** Correr & Musica :headphones:
--  **Una frase :** Primero pensa el problema, dividilo hasta que sea muy pequeño y después resolve cada parte. :heart: 
+-  **Una frase :** Primero pensa el problema, dividilo hasta que sea muy pequeño y después resolve cada problemita. :heart: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
