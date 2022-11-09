@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola 👋soy Hernan Rinaldi,
+Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
 
-<!--
-**HernanRinaldi/HernanRinaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/--1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Hernanrinaldi01)](https://twitter.com/Hernanrinaldi01)  [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hernan-javier-rinaldi/)](https://www.linkedin.com/in/ishagupta20/) [![Gmail Badge](https://img.shields.io/badge/-hernanjavierrinaldi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hernanjavierrinaldi@gmail.com)](mailto:hernanjavierrinaldi@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+-  **Lenguajes :** JavaScript, React, Redux, NodeJs, Express, PostgresSql,
+-  **Pasatiempos :** Correr & Musica :headphones:
+-  **Una frase :** Primero pensa el problema, dividilo hasta que sea muy pequeño y después resolve cada parte. :heart: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/94530832/200695769-9de77c53-3f20-4e38-bc33-e79e82c38400.svg" width="50" height="50"></a><a href="https://react.com"><img src="https://user-images.githubusercontent.com/94530832/200696499-58a56fa0-9859-419d-8e3b-e694e5a05b5b.svg" width="50" height="50"></a><a href="https://www.w3.org/html/"><img src="https://user-images.githubusercontent.com/94530832/200699270-b5270a46-12c0-4f08-8577-3e7c4210efaf.svg" width="50" height="50"></a><a href="https://www.postgresql.org/"><img src="https://user-images.githubusercontent.com/94530832/200699335-74830abc-ad07-4895-819e-553c793023ef.svg" width="50" height="50"></a><a href="https://nodejs.org/"><img src="https://user-images.githubusercontent.com/94530832/200699782-44fa9cc5-8f35-4230-93af-73b1bd3d1c09.svg" width="50" height="50"></a>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
