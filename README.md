@@ -17,4 +17,4 @@ Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
 
 Ultimo proyecto que estube trabajando
 
-![me](https://i.ibb.co/ZxBQdYq/Captura-de-pantalla-443.png)
+![me](https://i.ibb.co/LvmjYMr/Captura-de-pantalla-443-1.jpg)
