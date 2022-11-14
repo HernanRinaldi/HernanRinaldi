@@ -15,7 +15,7 @@ Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
- 💚 **Ultimo proyecto en el que estube trabajando** 💚                     
+ 💚 **Ultimo proyecto en el que estuve trabajando** 💚                     
  **Que opinas?** Dejame tu feedback!!
  
  <a href="https://world-dev-front.vercel.app"><img src="https://i.ibb.co/LvmjYMr/Captura-de-pantalla-443-1.jpg"></a>
