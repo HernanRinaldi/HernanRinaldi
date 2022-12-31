@@ -6,10 +6,12 @@ Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
 
 -  **Lenguajes :** JavaScript, typescript(en curso)
 -  **Librerías :** React, Redux, NodeJs, Express, PostgresSql.
--  **Metodología Agil :** SCRUM.
--  **software organización :** Trello.
--  **software Maquetado :** Figma.
--  **software Estilos :** Boostrap.
+-  **Metodología :** SCRUM.
+-  **Organización :** Trello.
+-  **Maquetado :** Figma.
+-  **Estilos :** Css, Boostrap.
+-  **Test :** Jest.
+-  **La nube :** Amazon Web Services(en curso).
 -  **Pasatiempos :** Correr & Musica :headphones: 
 -  **Mi frase :** Primero pensa el problema, dividilo hasta que sea muy pequeño y después resolve cada problemita. 
 
