@@ -10,7 +10,7 @@ Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
 -  **Organización :** Trello.
 -  **Maquetado :** Figma.
 -  **Estilos :** Css, Boostrap.
--  **Test :** Jest.
+-  **Test :** Jest. 
 -  **La nube :** Amazon Web Services(en curso).
 -  **Pasatiempos :** Correr & Musica :headphones: 
 -  **Mi frase :** Primero pensa el problema, dividilo hasta que sea muy pequeño y después resolve cada problemita. 
