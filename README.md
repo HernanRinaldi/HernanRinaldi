@@ -9,7 +9,7 @@ Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
 -  **Metodología :** SCRUM.
 -  **Organización :** Trello.
 -  **Maquetado :** Figma.
--  **Estilos :** Css, Boostrap.
+-  **Estilos :** Css, Boostrap. 
 -  **Test :** Jest. 
 -  **La nube :** Amazon Web Services(en curso).
 -  **Pasatiempos :** Correr & Musica :headphones: 
