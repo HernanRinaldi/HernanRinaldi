@@ -14,7 +14,7 @@ Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
 -  **La nube :** Amazon Web Services(en curso).
 -  **Pasatiempos :** Correr & Musica :headphones: 
 -  **Mi frase :** Primero pensa el problema, dividilo hasta que sea muy pequeño y después resolve cada problemita. 
- 
+  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://i.ibb.co/p071sDS/Javascript-by-Soy-Horizonte-removebg-preview-1-1.png" ></a><a href="https://react.com"><img src="https://user-images.githubusercontent.com/94530832/200696499-58a56fa0-9859-419d-8e3b-e694e5a05b5b.svg" width="50" height="50"></a><a href="https://www.w3.org/html/"><img src="https://user-images.githubusercontent.com/94530832/200699270-b5270a46-12c0-4f08-8577-3e7c4210efaf.svg" width="50" height="50"></a><a href="https://www.postgresql.org/"><img src="https://user-images.githubusercontent.com/94530832/200699335-74830abc-ad07-4895-819e-553c793023ef.svg" width="50" height="50"></a><a href="https://nodejs.org/"><img src="https://user-images.githubusercontent.com/94530832/200699782-44fa9cc5-8f35-4230-93af-73b1bd3d1c09.svg" width="50" height="50"></a>
