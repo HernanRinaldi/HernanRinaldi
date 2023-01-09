@@ -7,7 +7,7 @@ Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
 -  **Lenguajes :** JavaScript, typescript(en curso)
 -  **Librerías/otros :** React, Redux, Node, Express, PostgresSql, PgAdmin, React Native(en curso).
 -  **Metodología :** SCRUM.
--  **Organización :** Trello.
+-  **Organización :** Trello. 
 -  **Maquetado :** Figma. 
 -  **Estilos :** Css, Boostrap. 
 -  **Test :** Jest. 
