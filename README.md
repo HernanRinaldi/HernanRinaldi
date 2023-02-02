@@ -21,10 +21,20 @@ Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
 <a href="https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction"><img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" width="50" height="50"></a>
   <a href="https://sequelize.org/docs/v6/getting-started/"><img src="https://brandeps.com/icon-download/S/Sequelize-icon-vector-01.svg" width="45" height="45"></a>
   <a href="https://git-scm.com/"><img src="https://brandeps.com/icon-download/G/Git-icon-vector-06.svg" width="45" height="45"></a>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  💚 **Ultimo proyecto en el que estuve trabajando** 💚                     
  **Que opinas?** Dejame tu feedback!!
+ 
+ <a><img src="https://i.ibb.co/dKRsd1v/Captura-de-pantalla-489.png"></a>
+ <a><img src="https://i.ibb.co/pfnmrgs/Captura-de-pantalla-491.png"></a>
+  <a><img src="https://i.ibb.co/JqbV3DR/Captura-de-pantalla-490.png"></a>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+
+
+ **Proyecto desarrollado con 7 compañeros**                      
+ **Aplicación de hoteles**
  
  <a href="https://world-dev-front.vercel.app"><img src="https://i.ibb.co/LvmjYMr/Captura-de-pantalla-443-1.jpg"></a>
  
