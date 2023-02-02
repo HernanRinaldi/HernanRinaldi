@@ -26,9 +26,9 @@ Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
  💚 **Ultimo proyecto que estuve trabajando con React Native y Typescript** 💚                     
  Aplicación de peliculas donde podes ver toda la información referida a la misma.
  
- <a><img src="https://i.ibb.co/dKRsd1v/Captura-de-pantalla-489.png" width="270" height="550" ></a>
- <a><img src="https://i.ibb.co/pfnmrgs/Captura-de-pantalla-491.png" width="270" height="550" ></a>
- <a><img src="https://i.ibb.co/JqbV3DR/Captura-de-pantalla-490.png" width="270" height="550" ></a>
+ <a><img src="https://i.ibb.co/dKRsd1v/Captura-de-pantalla-489.png" width="200" height="450" ></a>
+ <a><img src="https://i.ibb.co/pfnmrgs/Captura-de-pantalla-491.png" width="200" height="450" ></a>
+ <a><img src="https://i.ibb.co/JqbV3DR/Captura-de-pantalla-490.png" width="200" height="450" ></a>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 
