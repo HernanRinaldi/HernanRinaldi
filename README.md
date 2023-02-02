@@ -23,12 +23,12 @@ Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
   <a href="https://git-scm.com/"><img src="https://brandeps.com/icon-download/G/Git-icon-vector-06.svg" width="45" height="45"></a>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- 💚 **Ultimo proyecto en el que estuve trabajando** 💚                     
- **Que opinas?** Dejame tu feedback!!
+ 💚 **Ultimo proyecto que estuve trabajando con React Native y Typescript** 💚                     
+ Aplicación de peliculas donde podes ver toda la información referida a la misma.
  
- <a><img src="https://i.ibb.co/dKRsd1v/Captura-de-pantalla-489.png"></a>
- <a><img src="https://i.ibb.co/pfnmrgs/Captura-de-pantalla-491.png"></a>
-  <a><img src="https://i.ibb.co/JqbV3DR/Captura-de-pantalla-490.png"></a>
+ <a><img src="https://i.ibb.co/dKRsd1v/Captura-de-pantalla-489.png" width="300" height="600" ></a>
+ <a><img src="https://i.ibb.co/pfnmrgs/Captura-de-pantalla-491.png" width="300" height="600" ></a>
+ <a><img src="https://i.ibb.co/JqbV3DR/Captura-de-pantalla-490.png" width="300" height="600" ></a>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 
