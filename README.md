@@ -32,9 +32,10 @@ Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 
+**World Developers**
 
- **Proyecto desarrollado con 7 compañeros**                      
- **Aplicación de hoteles**
+Es una franquicia de hoteles con una orientacion de servicios a desarrolladores, tales como eventos IT, salas de co-working.                      
+ 
  
  <a href="https://world-dev-front.vercel.app"><img src="https://i.ibb.co/LvmjYMr/Captura-de-pantalla-443-1.jpg"></a>
  
