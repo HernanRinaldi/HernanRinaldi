@@ -28,7 +28,7 @@ Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
  
  <a><img src="https://i.ibb.co/dKRsd1v/Captura-de-pantalla-489.png" width="200" height="450" ></a>
  <a><img src="https://i.ibb.co/pfnmrgs/Captura-de-pantalla-491.png" width="200" height="450" ></a>
- <a><img src="https://i.ibb.co/JqbV3DR/Captura-de-pantalla-490.png" width="200" height="450" ></a>
+<!--  <a><img src="https://i.ibb.co/JqbV3DR/Captura-de-pantalla-490.png" width="200" height="450" ></a> -->
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 
