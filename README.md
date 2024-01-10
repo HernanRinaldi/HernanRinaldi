@@ -14,7 +14,6 @@ Desarrollador de software Full-Stack :zap: y apasionado por la naturaleza.🌳
 -  **Test :** Jest. 
 -  **La nube :** Amazon Web Services(en curso).
 -  **Pasatiempos :** Correr & Musica :headphones: 
--  **Mi frase :** Primero pensa el problema, dividilo hasta que sea muy pequeño y después resolve cada problemita. 
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
